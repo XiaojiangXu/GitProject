@@ -38,9 +38,9 @@ public class CreateScheduleApp {
 		bussinessLibAndroid.newVerifyEquals("VP_loginApp", true,bussinessLibAndroid.newIsElementPresent(VPStore.VP_loginApp));
 
 		String[] p_assigntoList = { "ml0tester" };
-		bussinessLibAndroid.createSchedule("ML0九期android考试_徐天", "天津", "ML0九期", p_assigntoList, "01", "02","不重复","否");
+		bussinessLibAndroid.createSchedule("日程_徐天", "天津", "ML0九期", p_assigntoList, "01", "02","不重复","否");
 		CommonLib.sleep(DataStore.D_Wait_MediumTime);
-		bussinessLibAndroid.newVerifyEquals("VP_CreateScheduleApp", "ML0九期android考试_徐天",bussinessLibAndroid.newElements(VPStore.VP_ScheduleApp));
+		bussinessLibAndroid.newVerifyEquals("VP_CreateScheduleApp", "日程_徐天",bussinessLibAndroid.newElements(VPStore.VP_ScheduleApp));
 
 		bussinessLibAndroid.logout();
 		CommonLib.sleep(DataStore.D_Wait_MediumTime);

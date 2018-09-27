@@ -28,7 +28,7 @@ public class ScheduleCommentsWeb {
 		bussinessLibWeb.login("85281171@qq.com", "123456");
 		bussinessLibWeb.newVerifyEquals("VP_Login", true, bussinessLibWeb.newIsElementPresent(VPStore.VP_Login));
 		
-		bussinessLibWeb.scheduleComments("ML0九期android考试_徐天", "徐晓", "徐天_评论");
+		bussinessLibWeb.scheduleComments("日程_徐天", "徐天", "徐天_评论");
 		bussinessLibWeb.newVerifyEquals("徐天_评论", "徐天_评论", bussinessLibWeb.newWebElement(ObjectStore.scheduleComments));
 		
 		bussinessLibWeb.logout();
