@@ -140,7 +140,7 @@ public class ObjectStore {
 	
 	
 	public static final String CreateSchedule_Comments="//android.support.v7.widget.RecyclerView/android.widget.RelativeLayout[1]/android.widget.TextView[2]";
-	public static final String CommentsApp ="学员_徐晓江_评论";
+	public static final String CommentsApp ="学员_徐天_评论";
 	
 	public static final String Logout_More ="id=com.worktile:id/actionbar_more";
 	public static final String Logout_More2 ="//android.widget.ListView/android.widget.LinearLayout[2]";

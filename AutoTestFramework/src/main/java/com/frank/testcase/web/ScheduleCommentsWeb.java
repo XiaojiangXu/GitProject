@@ -25,11 +25,11 @@ public class ScheduleCommentsWeb {
 	@Test
 	public void testcase_ScheduleComments() throws Exception {
 
-		bussinessLibWeb.login("85281171@qq.com", "xxj1125");
+		bussinessLibWeb.login("85281171@qq.com", "123456");
 		bussinessLibWeb.newVerifyEquals("VP_Login", true, bussinessLibWeb.newIsElementPresent(VPStore.VP_Login));
 		
-		bussinessLibWeb.scheduleComments("ML0九期android考试_徐晓江", "徐晓", "徐晓江_评论");
-		bussinessLibWeb.newVerifyEquals("徐晓江_评论", "徐晓江_评论", bussinessLibWeb.newWebElement(ObjectStore.scheduleComments));
+		bussinessLibWeb.scheduleComments("ML0九期android考试_徐天", "徐晓", "徐天_评论");
+		bussinessLibWeb.newVerifyEquals("徐天_评论", "徐天_评论", bussinessLibWeb.newWebElement(ObjectStore.scheduleComments));
 		
 		bussinessLibWeb.logout();
 		bussinessLibWeb.newVerifyEquals("VP_Logout", true, bussinessLibWeb.newIsElementPresent(VPStore.VP_Logout));

@@ -34,13 +34,13 @@ public class CommentsValidationApp {
 	@Test
 	public void testcase_CommentsValidation() throws Exception {
 
-		bussinessLibAndroid.login("85281171@qq.com", "xxj1125");
+		bussinessLibAndroid.login("85281171@qq.com", "123456");
 		CommonLib.sleep(DataStore.D_Wait_MediumTime);
 		bussinessLibAndroid.newVerifyEquals("VP_loginApp", true,bussinessLibAndroid.newIsElementPresent(VPStore.VP_loginApp));
 
 		bussinessLibAndroid.commentsApp();
 		CommonLib.sleep(DataStore.D_Wait_MediumTime);
-		bussinessLibAndroid.newVerifyEquals("VP_CreateScheduleApp", "徐晓江_评论",bussinessLibAndroid.newElements(VPStore.VP_CommentsApp));
+		bussinessLibAndroid.newVerifyEquals("VP_CreateScheduleApp", "徐天_评论",bussinessLibAndroid.newElements(VPStore.VP_CommentsApp));
 
 		bussinessLibAndroid.logout();
 		CommonLib.sleep(DataStore.D_Wait_MediumTime);

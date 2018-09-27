@@ -8,7 +8,7 @@ public class VPStore {
 	
 	//创建日程相关UI
 
-	public static final String VP_CreateSchedule = ".//*[@id='calendar']/div/div/table/tbody/tr/td/div/div/div[4]/div[2]/table/tbody/tr[3]/td[starts-with(@class,'fc-event-container')]/a/div/span[2][contains(text(),'ML0九期架构练习_徐晓江')]";
+	public static final String VP_CreateSchedule = ".//*[@id='calendar']/div/div/table/tbody/tr/td/div/div/div[4]/div[2]/table/tbody/tr[3]/td[starts-with(@class,'fc-event-container')]/a/div/span[2][contains(text(),'ML0九期架构练习_徐天')]";
 
 	// 登陆相关 UI
 		public static final String VP_Logout = "link=登录基础版";

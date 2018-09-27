@@ -11,7 +11,7 @@
 六月 04, 2018 10:35:51 下午 com.frank.framework.WebDriverLib newType
 信息: 写文字： 85281171@qq.com 到  name=login_name -------------- 成功！
 六月 04, 2018 10:35:53 下午 com.frank.framework.WebDriverLib newType
-信息: 写文字： xxj1125 到  name=login_password -------------- 成功！
+信息: 写文字： 123456 到  name=login_password -------------- 成功！
 六月 04, 2018 10:35:55 下午 com.frank.framework.WebDriverLib newClick
 信息: 点击对象：xpath=//button[@type='button'] -------------- 成功！
 六月 04, 2018 10:36:02 下午 com.frank.framework.WebDriverLib newClick
@@ -21,9 +21,9 @@
 六月 04, 2018 10:36:05 下午 com.frank.framework.WebDriverLib newClick
 信息: 点击对象：.//*[@id='leftmenu_current']/li[2]/a/i -------------- 成功！
 六月 04, 2018 10:36:07 下午 com.frank.framework.WebDriverLib newType
-信息: 写文字： ML0九期android考试_徐晓江 到  .//*[@id='the-search-input'] -------------- 成功！
+信息: 写文字： ML0九期android考试_徐天 到  .//*[@id='the-search-input'] -------------- 成功！
 六月 04, 2018 10:36:20 下午 com.frank.framework.WebDriverLib newType
-信息: 写文字： 徐晓江_评论 到  .//*[@id='wrap-all']/div[2]/div/ng-include/div/div[2]/div[2]/wt-item-comment-activity/div/div/div[1]/comment-list/div/div/wt-new-comment/div/textarea -------------- 成功！
+信息: 写文字： 徐天_评论 到  .//*[@id='wrap-all']/div[2]/div/ng-include/div/div[2]/div[2]/wt-item-comment-activity/div/div/div[1]/comment-list/div/div/wt-new-comment/div/textarea -------------- 成功！
 六月 04, 2018 10:36:23 下午 com.frank.framework.WebDriverLib newClick
 信息: 点击对象：.//*[@id='wrap-all']/div[2]/div/ng-include/div/div[2]/div[2]/wt-item-comment-activity/div/div/div[1]/comment-list/div/div/wt-new-comment/div/div[2]/button -------------- 成功！
 六月 04, 2018 10:36:25 下午 com.frank.projectlib.WebDriverLibExtension newWebElement
@@ -57,7 +57,7 @@
 六月 04, 2018 10:38:43 下午 com.frank.framework.WebDriverLib newType
 信息: 写文字： 85281171@qq.com 到  name=login_name -------------- 成功！
 六月 04, 2018 10:38:45 下午 com.frank.framework.WebDriverLib newType
-信息: 写文字： xxj1125 到  name=login_password -------------- 成功！
+信息: 写文字： 123456 到  name=login_password -------------- 成功！
 六月 04, 2018 10:38:47 下午 com.frank.framework.WebDriverLib newClick
 信息: 点击对象：xpath=//button[@type='button'] -------------- 成功！
 六月 04, 2018 10:38:54 下午 com.frank.framework.WebDriverLib newClick
@@ -67,9 +67,9 @@
 六月 04, 2018 10:38:57 下午 com.frank.framework.WebDriverLib newClick
 信息: 点击对象：.//*[@id='leftmenu_current']/li[2]/a/i -------------- 成功！
 六月 04, 2018 10:38:59 下午 com.frank.framework.WebDriverLib newType
-信息: 写文字： ML0九期android考试_徐晓江 到  .//*[@id='the-search-input'] -------------- 成功！
+信息: 写文字： ML0九期android考试_徐天 到  .//*[@id='the-search-input'] -------------- 成功！
 六月 04, 2018 10:39:12 下午 com.frank.framework.WebDriverLib newType
-信息: 写文字： 徐晓江_评论 到  .//*[@id='wrap-all']/div[2]/div/ng-include/div/div[2]/div[2]/wt-item-comment-activity/div/div/div[1]/comment-list/div/div/wt-new-comment/div/textarea -------------- 成功！
+信息: 写文字： 徐天_评论 到  .//*[@id='wrap-all']/div[2]/div/ng-include/div/div[2]/div[2]/wt-item-comment-activity/div/div/div[1]/comment-list/div/div/wt-new-comment/div/textarea -------------- 成功！
 六月 04, 2018 10:39:15 下午 com.frank.framework.WebDriverLib newClick
 信息: 点击对象：.//*[@id='wrap-all']/div[2]/div/ng-include/div/div[2]/div[2]/wt-item-comment-activity/div/div/div[1]/comment-list/div/div/wt-new-comment/div/div[2]/button -------------- 成功！
 六月 04, 2018 10:39:17 下午 com.frank.projectlib.WebDriverLibExtension newWebElement
@@ -103,7 +103,7 @@
 六月 04, 2018 10:47:53 下午 com.frank.framework.WebDriverLib newType
 信息: 写文字： 85281171@qq.com 到  name=login_name -------------- 成功！
 六月 04, 2018 10:47:55 下午 com.frank.framework.WebDriverLib newType
-信息: 写文字： xxj1125 到  name=login_password -------------- 成功！
+信息: 写文字： 123456 到  name=login_password -------------- 成功！
 六月 04, 2018 10:47:57 下午 com.frank.framework.WebDriverLib newClick
 信息: 点击对象：xpath=//button[@type='button'] -------------- 成功！
 六月 04, 2018 10:48:05 下午 com.frank.framework.WebDriverLib newClick
@@ -113,9 +113,9 @@
 六月 04, 2018 10:48:07 下午 com.frank.framework.WebDriverLib newClick
 信息: 点击对象：.//*[@id='leftmenu_current']/li[2]/a/i -------------- 成功！
 六月 04, 2018 10:48:10 下午 com.frank.framework.WebDriverLib newType
-信息: 写文字： ML0九期android考试_徐晓江 到  .//*[@id='the-search-input'] -------------- 成功！
+信息: 写文字： ML0九期android考试_徐天 到  .//*[@id='the-search-input'] -------------- 成功！
 六月 04, 2018 10:48:23 下午 com.frank.framework.WebDriverLib newType
-信息: 写文字： 徐晓江_评论 到  .//*[@id='wrap-all']/div[2]/div/ng-include/div/div[2]/div[2]/wt-item-comment-activity/div/div/div[1]/comment-list/div/div/wt-new-comment/div/textarea -------------- 成功！
+信息: 写文字： 徐天_评论 到  .//*[@id='wrap-all']/div[2]/div/ng-include/div/div[2]/div[2]/wt-item-comment-activity/div/div/div[1]/comment-list/div/div/wt-new-comment/div/textarea -------------- 成功！
 六月 04, 2018 10:48:25 下午 com.frank.framework.WebDriverLib newClick
 信息: 点击对象：.//*[@id='wrap-all']/div[2]/div/ng-include/div/div[2]/div[2]/wt-item-comment-activity/div/div/div[1]/comment-list/div/div/wt-new-comment/div/div[2]/button -------------- 成功！
 六月 04, 2018 10:48:27 下午 com.frank.projectlib.WebDriverLibExtension newWebElement
@@ -149,7 +149,7 @@
 六月 05, 2018 1:47:44 下午 com.frank.framework.WebDriverLib newType
 信息: 写文字： 85281171@qq.com 到  name=login_name -------------- 成功！
 六月 05, 2018 1:47:46 下午 com.frank.framework.WebDriverLib newType
-信息: 写文字： xxj1125 到  name=login_password -------------- 成功！
+信息: 写文字： 123456 到  name=login_password -------------- 成功！
 六月 05, 2018 1:47:48 下午 com.frank.framework.WebDriverLib newClick
 信息: 点击对象：xpath=//button[@type='button'] -------------- 成功！
 六月 05, 2018 1:47:56 下午 com.frank.framework.WebDriverLib newClick
@@ -159,9 +159,9 @@
 六月 05, 2018 1:47:58 下午 com.frank.framework.WebDriverLib newClick
 信息: 点击对象：.//*[@id='leftmenu_current']/li[2]/a/i -------------- 成功！
 六月 05, 2018 1:48:01 下午 com.frank.framework.WebDriverLib newType
-信息: 写文字： ML0九期android考试_徐晓江 到  .//*[@id='the-search-input'] -------------- 成功！
+信息: 写文字： ML0九期android考试_徐天 到  .//*[@id='the-search-input'] -------------- 成功！
 六月 05, 2018 1:48:14 下午 com.frank.framework.WebDriverLib newType
-信息: 写文字： 徐晓江_评论 到  .//*[@id='wrap-all']/div[2]/div/ng-include/div/div[2]/div[2]/wt-item-comment-activity/div/div/div[1]/comment-list/div/div/wt-new-comment/div/textarea -------------- 成功！
+信息: 写文字： 徐天_评论 到  .//*[@id='wrap-all']/div[2]/div/ng-include/div/div[2]/div[2]/wt-item-comment-activity/div/div/div[1]/comment-list/div/div/wt-new-comment/div/textarea -------------- 成功！
 六月 05, 2018 1:48:16 下午 com.frank.framework.WebDriverLib newClick
 信息: 点击对象：.//*[@id='wrap-all']/div[2]/div/ng-include/div/div[2]/div[2]/wt-item-comment-activity/div/div/div[1]/comment-list/div/div/wt-new-comment/div/div[2]/button -------------- 成功！
 六月 05, 2018 1:48:18 下午 com.frank.projectlib.WebDriverLibExtension newWebElement
@@ -195,7 +195,7 @@
 六月 05, 2018 2:00:27 下午 com.frank.framework.WebDriverLib newType
 信息: 写文字： 85281171@qq.com 到  name=login_name -------------- 成功！
 六月 05, 2018 2:00:29 下午 com.frank.framework.WebDriverLib newType
-信息: 写文字： xxj1125 到  name=login_password -------------- 成功！
+信息: 写文字： 123456 到  name=login_password -------------- 成功！
 六月 05, 2018 2:00:31 下午 com.frank.framework.WebDriverLib newClick
 信息: 点击对象：xpath=//button[@type='button'] -------------- 成功！
 六月 05, 2018 2:00:39 下午 com.frank.framework.WebDriverLib newClick
@@ -205,9 +205,9 @@
 六月 05, 2018 2:00:41 下午 com.frank.framework.WebDriverLib newClick
 信息: 点击对象：.//*[@id='leftmenu_current']/li[2]/a/i -------------- 成功！
 六月 05, 2018 2:00:44 下午 com.frank.framework.WebDriverLib newType
-信息: 写文字： ML0九期android考试_徐晓江 到  .//*[@id='the-search-input'] -------------- 成功！
+信息: 写文字： ML0九期android考试_徐天 到  .//*[@id='the-search-input'] -------------- 成功！
 六月 05, 2018 2:00:57 下午 com.frank.framework.WebDriverLib newType
-信息: 写文字： 徐晓江_评论 到  .//*[@id='wrap-all']/div[2]/div/ng-include/div/div[2]/div[2]/wt-item-comment-activity/div/div/div[1]/comment-list/div/div/wt-new-comment/div/textarea -------------- 成功！
+信息: 写文字： 徐天_评论 到  .//*[@id='wrap-all']/div[2]/div/ng-include/div/div[2]/div[2]/wt-item-comment-activity/div/div/div[1]/comment-list/div/div/wt-new-comment/div/textarea -------------- 成功！
 六月 05, 2018 2:00:59 下午 com.frank.framework.WebDriverLib newClick
 信息: 点击对象：.//*[@id='wrap-all']/div[2]/div/ng-include/div/div[2]/div[2]/wt-item-comment-activity/div/div/div[1]/comment-list/div/div/wt-new-comment/div/div[2]/button -------------- 成功！
 六月 05, 2018 2:01:01 下午 com.frank.projectlib.WebDriverLibExtension newWebElement
@@ -228,3 +228,127 @@
 信息: 退出 -------------- 成功！
 六月 05, 2018 2:01:15 下午 com.frank.mail.MailEntry sendmail
 信息: 发送邮件成功!
+九月 27, 2018 3:33:49 下午 com.frank.framework.WebDriverLib newSetup
+信息: 启动chrome浏览器。
+九月 27, 2018 3:33:52 下午 com.frank.framework.WebDriverLib newSetup
+信息: 获取环境信息：https://my.worktile.com
+九月 27, 2018 3:33:52 下午 com.frank.framework.WebDriverLib newSetup
+信息: 浏览器窗口最大化。
+九月 27, 2018 3:33:52 下午 com.frank.framework.WebDriverLib newSetup
+信息: 初始化  -------------- 成功！
+九月 27, 2018 3:33:55 下午 com.frank.framework.WebDriverLib newClick
+信息: 点击对象：link=登录基础版 -------------- 成功！
+九月 27, 2018 3:33:58 下午 com.frank.framework.WebDriverLib newType
+信息: 写文字： 85281171@qq.com 到  name=login_name -------------- 成功！
+九月 27, 2018 3:34:00 下午 com.frank.framework.WebDriverLib newType
+信息: 写文字： 123456 到  name=login_password -------------- 成功！
+九月 27, 2018 3:34:02 下午 com.frank.framework.WebDriverLib newClick
+信息: 点击对象：xpath=//button[@type='button'] -------------- 成功！
+九月 27, 2018 3:34:09 下午 com.frank.framework.WebDriverLib newClick
+信息: 点击对象：xpath=//*[@id='ng-app']/body/div[1]/div/div/div/div[1]/span/i -------------- 成功！
+九月 27, 2018 3:34:09 下午 com.frank.framework.WebDriverLib newVerifyEquals
+信息: 
+九月 27, 2018 3:34:11 下午 com.frank.framework.WebDriverLib newClick
+信息: 点击对象：.//*[@id='leftmenu_current']/li[2]/a/i -------------- 成功！
+九月 27, 2018 3:34:13 下午 com.frank.framework.WebDriverLib newType
+信息: 写文字： ML0九期android考试_徐天 到  .//*[@id='the-search-input'] -------------- 成功！
+九月 27, 2018 3:35:05 下午 com.frank.framework.WebDriverLib newSetup
+信息: 启动chrome浏览器。
+九月 27, 2018 3:35:08 下午 com.frank.framework.WebDriverLib newSetup
+信息: 获取环境信息：https://my.worktile.com
+九月 27, 2018 3:35:08 下午 com.frank.framework.WebDriverLib newSetup
+信息: 浏览器窗口最大化。
+九月 27, 2018 3:35:08 下午 com.frank.framework.WebDriverLib newSetup
+信息: 初始化  -------------- 成功！
+九月 27, 2018 3:35:11 下午 com.frank.framework.WebDriverLib newClick
+信息: 点击对象：link=登录基础版 -------------- 成功！
+九月 27, 2018 3:35:13 下午 com.frank.framework.WebDriverLib newType
+信息: 写文字： 85281171@qq.com 到  name=login_name -------------- 成功！
+九月 27, 2018 3:35:16 下午 com.frank.framework.WebDriverLib newType
+信息: 写文字： 123456 到  name=login_password -------------- 成功！
+九月 27, 2018 3:35:18 下午 com.frank.framework.WebDriverLib newClick
+信息: 点击对象：xpath=//button[@type='button'] -------------- 成功！
+九月 27, 2018 3:35:26 下午 com.frank.framework.WebDriverLib newClick
+信息: 点击对象：xpath=//*[@id='ng-app']/body/div[1]/div/div/div/div[1]/span/i -------------- 成功！
+九月 27, 2018 3:35:26 下午 com.frank.framework.WebDriverLib newVerifyEquals
+信息: 
+九月 27, 2018 3:35:28 下午 com.frank.framework.WebDriverLib newClick
+信息: 点击对象：.//*[@id='leftmenu_current']/li[2]/a/i -------------- 成功！
+九月 27, 2018 3:35:30 下午 com.frank.framework.WebDriverLib newType
+信息: 写文字： ML0九期android考试_徐天 到  .//*[@id='the-search-input'] -------------- 成功！
+九月 27, 2018 3:35:53 下午 com.frank.framework.WebDriverLib newType
+信息: 写文字： 徐天_评论 到  .//*[@id='wrap-all']/div[2]/div/ng-include/div/div[2]/div[2]/wt-item-comment-activity/div/div/div[1]/comment-list/div/div/wt-new-comment/div/textarea -------------- 成功！
+九月 27, 2018 3:35:55 下午 com.frank.framework.WebDriverLib newClick
+信息: 点击对象：.//*[@id='wrap-all']/div[2]/div/ng-include/div/div[2]/div[2]/wt-item-comment-activity/div/div/div[1]/comment-list/div/div/wt-new-comment/div/div[2]/button -------------- 成功！
+九月 27, 2018 3:35:57 下午 com.frank.projectlib.WebDriverLibExtension newWebElement
+信息: 点击对象：xpath=.//*[@id='wrap-all']/div[2]/div/ng-include/div/div[2]/div[2]/wt-item-comment-activity/div/div/div[1]/comment-list/div/ul/li/div/div[1]/div[1]/p -------------- 成功！
+九月 27, 2018 3:35:58 下午 com.frank.framework.WebDriverLib screenShot
+信息: 截屏成功！截屏信息是 —— /Users/xuxiaojiang/git/GitProject/AutoTestFramework/log/loggingResults/screenshots/shot-20180927_15-35-58.png
+九月 27, 2018 3:35:58 下午 com.frank.framework.WebDriverLib newVerifyEquals
+严重: 
+九月 27, 2018 3:36:00 下午 com.frank.framework.WebDriverLib newClick
+信息: 点击对象：xpath=.//*[@id='btn_leftmenu_avatar_self']/span/img -------------- 成功！
+九月 27, 2018 3:36:02 下午 com.frank.framework.WebDriverLib newClick
+信息: 点击对象：link=退出登录 -------------- 成功！
+九月 27, 2018 3:36:03 下午 com.frank.framework.WebDriverLib newVerifyEquals
+信息: 
+九月 27, 2018 3:36:03 下午 com.frank.framework.WebDriverLib newTeardown
+信息: webdriverLib 销毁
+九月 27, 2018 3:36:03 下午 com.frank.framework.WebDriverLib newTeardown
+信息: 退出 -------------- 成功！
+九月 27, 2018 3:54:50 下午 com.frank.framework.WebDriverLib newSetup
+信息: 启动chrome浏览器。
+九月 27, 2018 3:54:54 下午 com.frank.framework.WebDriverLib newSetup
+信息: 获取环境信息：https://my.worktile.com
+九月 27, 2018 3:54:54 下午 com.frank.framework.WebDriverLib newSetup
+信息: 浏览器窗口最大化。
+九月 27, 2018 3:54:54 下午 com.frank.framework.WebDriverLib newSetup
+信息: 初始化  -------------- 成功！
+九月 27, 2018 3:55:01 下午 com.frank.framework.WebDriverLib newClick
+信息: 点击对象：link=登录基础版 -------------- 成功！
+九月 27, 2018 3:55:03 下午 com.frank.framework.WebDriverLib newType
+信息: 写文字： 85281171@qq.com 到  name=login_name -------------- 成功！
+九月 27, 2018 3:55:05 下午 com.frank.framework.WebDriverLib newType
+信息: 写文字： 123456 到  name=login_password -------------- 成功！
+九月 27, 2018 3:55:07 下午 com.frank.framework.WebDriverLib newClick
+信息: 点击对象：xpath=//button[@type='button'] -------------- 成功！
+九月 27, 2018 3:55:17 下午 com.frank.framework.WebDriverLib newClick
+信息: 点击对象：xpath=//*[@id='ng-app']/body/div[1]/div/div/div/div[1]/span/i -------------- 成功！
+九月 27, 2018 3:55:17 下午 com.frank.framework.WebDriverLib newVerifyEquals
+信息: 
+九月 27, 2018 3:55:19 下午 com.frank.framework.WebDriverLib newClick
+信息: 点击对象：.//*[@id='leftmenu_current']/li[2]/a/i -------------- 成功！
+九月 27, 2018 3:55:21 下午 com.frank.framework.WebDriverLib newType
+信息: 写文字： ML0九期android考试_徐天 到  .//*[@id='the-search-input'] -------------- 成功！
+九月 27, 2018 3:55:40 下午 com.frank.framework.WebDriverLib newTeardown
+信息: webdriverLib 销毁
+九月 27, 2018 3:55:40 下午 com.frank.framework.WebDriverLib newTeardown
+信息: 退出 -------------- 成功！
+九月 27, 2018 3:56:19 下午 com.frank.framework.WebDriverLib newSetup
+信息: 启动chrome浏览器。
+九月 27, 2018 3:56:21 下午 com.frank.framework.WebDriverLib newSetup
+信息: 获取环境信息：https://my.worktile.com
+九月 27, 2018 3:56:21 下午 com.frank.framework.WebDriverLib newSetup
+信息: 浏览器窗口最大化。
+九月 27, 2018 3:56:21 下午 com.frank.framework.WebDriverLib newSetup
+信息: 初始化  -------------- 成功！
+九月 27, 2018 3:56:25 下午 com.frank.framework.WebDriverLib newClick
+信息: 点击对象：link=登录基础版 -------------- 成功！
+九月 27, 2018 3:56:27 下午 com.frank.framework.WebDriverLib newType
+信息: 写文字： 85281171@qq.com 到  name=login_name -------------- 成功！
+九月 27, 2018 3:56:29 下午 com.frank.framework.WebDriverLib newType
+信息: 写文字： 123456 到  name=login_password -------------- 成功！
+九月 27, 2018 3:56:31 下午 com.frank.framework.WebDriverLib newClick
+信息: 点击对象：xpath=//button[@type='button'] -------------- 成功！
+九月 27, 2018 3:56:40 下午 com.frank.framework.WebDriverLib newClick
+信息: 点击对象：xpath=//*[@id='ng-app']/body/div[1]/div/div/div/div[1]/span/i -------------- 成功！
+九月 27, 2018 3:56:40 下午 com.frank.framework.WebDriverLib newVerifyEquals
+信息: 
+九月 27, 2018 3:56:42 下午 com.frank.framework.WebDriverLib newClick
+信息: 点击对象：.//*[@id='leftmenu_current']/li[2]/a/i -------------- 成功！
+九月 27, 2018 3:56:44 下午 com.frank.framework.WebDriverLib newType
+信息: 写文字： ML0九期android考试_徐天 到  .//*[@id='the-search-input'] -------------- 成功！
+九月 27, 2018 3:57:50 下午 com.frank.framework.WebDriverLib newTeardown
+信息: webdriverLib 销毁
+九月 27, 2018 3:57:50 下午 com.frank.framework.WebDriverLib newTeardown
+信息: 退出 -------------- 成功！

@@ -8,9 +8,9 @@ import com.frank.framework.CommonLib;
 public class DataStore {	
 	public static String D_Username="85281171@qq.com";
 	public static String D_Username2=CommonLib.readINIFile(System.getProperty("user.dir")+File.separator+"config"+File.separator+"config.ini", "base", "username");
-	public static String D_Password="xxj1125";
+	public static String D_Password="123456";
 	public static String D_URL="https://my.worktile.com";
-	public static String D_Browser="FireFox";
+	public static String D_Browser="Chrome";
 	public static String D_Browser2=CommonLib.readINIFile(System.getProperty("user.dir")+File.separator+"config"+File.separator+"config.ini", "browser", "useBrowser");
 	public static int D_Wait_ShortTime=Integer.parseInt(CommonLib.readINIFile1(System.getProperty("user.dir")+File.separator+"config"+File.separator+"config.ini", "waittime", "shortTime"));
 	public static int D_Wait_MediumTime=5;
